@@ -13,7 +13,7 @@ Source: [`wg1-<acronym>-charter`](https://github.com/fg-tida-wg1/wg1-<acronym>-c
 
 ## Working group
 - **Chairs:** <names>
-- **Mailing list:** <list / link>
+- **Mailing list: fgtidawg1@lists.itu.int
 - **Meetings:** <cadence / calendar link>
 
 ## Contributing
