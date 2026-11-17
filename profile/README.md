@@ -1,4 +1,4 @@
-# FG-TIDA WG1: <Full name of the Working Group> (<ACRONYM>)
+# FG-TIDA WG1: Continuous and Dynamic Remote Attestation for Agentic AI (CDRA)
 
 <One or two sentences on what this Working Group does.>
 
@@ -12,7 +12,7 @@ Source: [`wg1-<acronym>-charter`](https://github.com/fg-tida-wg1/wg1-<acronym>-c
 | <Spec name> | [web](#) · [PDF](#) | [`wg1-<acronym>-<spec-name>`](#) |
 
 ## Working group
-- **Chairs:** <names>
+- **Chairs:** Houda Labiod (Huawei), Henk Birkholz
 - **Mailing list:** fgtidawg1@lists.itu.int
 - **Meetings:** <cadence / calendar link>
 
