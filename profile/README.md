@@ -4,7 +4,7 @@
 
 ## Charter
 📄 [Web](https://fg-tida-wg1.github.io/wg1-<acronym>-charter/) · 📑 [PDF](https://fg-tida-wg1.github.io/wg1-<acronym>-charter/wg-charter.pdf)
-Source: [`wg1-<acronym>-charter`](https://github.com/fg-tida-wg1/wg1-<acronym>-charter)
+Source: [`wg1-cdra-charter`](https://github.com/fg-tida-wg1/wg1-cdra-charter)
 
 ## Specifications
 | Deliverable | Published | Source |
