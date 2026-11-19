@@ -7,9 +7,16 @@ WG1 enables dynamic attestation and continuous attestation for AI agents that ev
 Source: [`wg1-cdra-charter`](https://github.com/fg-tida-wg1/wg1-cdra-charter)
 
 ## Specifications
+
 | Deliverable | Published | Source |
 |---|---|---|
-| <Spec name> | [web](#) · [PDF](#) | [`wg1-<acronym>-<spec-name>`](#) |
+| White paper: Remote Attestation Challenges for Agentic AI Systems | - | - |
+| Requirements for continuous and dynamic remote attestation of agentic AI systems | - | - |
+| Architecture model for multi-layered remote attestation of agentic AI systems | - | - |
+| Integration of remote attestation into agent interaction protocols | - | - |
+| Interoperability model for including legacy systems in remote attestation | - | - |
+| Technical governance of trust domains with changing composition | - | - |
+
 
 ## Working group
 - **Chairs:** Houda Labiod (Huawei), Henk Birkholz
