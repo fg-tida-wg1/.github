@@ -8,14 +8,14 @@ Source: [`wg1-cdra-charter`](https://github.com/fg-tida-wg1/wg1-cdra-charter)
 
 ## Specifications
 
-| Deliverable | Published | Source |
-|---|---|---|
-| White paper: Remote Attestation Challenges for Agentic AI Systems | - | - |
-| Requirements for continuous and dynamic remote attestation of agentic AI systems | - | - |
-| Architecture model for multi-layered remote attestation of agentic AI systems | - | - |
-| Integration of remote attestation into agent interaction protocols | - | - |
-| Interoperability model for including legacy systems in remote attestation | - | - |
-| Technical governance of trust domains with changing composition | - | - |
+| # | Deliverable | Published | Source |
+|---|---|---|---|
+| 1 | White paper: Remote Attestation Challenges for Agentic AI Systems | - | - |
+| 2 | Requirements for continuous and dynamic remote attestation of agentic AI systems | - | - |
+| 3 | Architecture model for multi-layered remote attestation of agentic AI systems | - | - |
+| 4 | Integration of remote attestation into agent interaction protocols | - | - |
+| 5 | Interoperability model for including legacy systems in remote attestation | - | - |
+| 6 | Technical governance of trust domains with changing composition | - | - |
 
 
 ## Working group
