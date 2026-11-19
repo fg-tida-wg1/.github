@@ -24,7 +24,7 @@ Source: [`wg1-cdra-charter`](https://github.com/fg-tida-wg1/wg1-cdra-charter)
 - **Meetings:** <cadence / calendar link>
 
 ## Contributing
-See `CONTRIBUTING.md` in each repository — open an issue or a pull request; do not push directly to `main`.
+See the [contribution guide](https://fg-tida.github.io/.github/)
 
 ## Parent
 Operates under [FG-TIDA](https://github.com/FG-TIDA), an ITU-T Focus Group (parent Study Group: SG17).
