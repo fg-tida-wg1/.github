@@ -1,9 +1,9 @@
 # FG-TIDA WG1: Continuous and Dynamic Remote Attestation for Agentic AI (CDRA)
 
-<One or two sentences on what this Working Group does.>
+WG1 enables dynamic attestation and continuous attestation for AI agents that evolve during their execution, with the associated flow of Attestation Results as one input to enforcement.
 
 ## Charter
-📄 [Web](https://fg-tida-wg1.github.io/wg1-<acronym>-charter/) · 📑 [PDF](https://fg-tida-wg1.github.io/wg1-<acronym>-charter/wg-charter.pdf)
+📄 [Web page](https://fg-tida-wg1.github.io/wg1-cdra-charter/) · 📑 [PDF](https://fg-tida-wg1.github.io/wg1-cdra-charter/wg-charter.pdf)
 Source: [`wg1-cdra-charter`](https://github.com/fg-tida-wg1/wg1-cdra-charter)
 
 ## Specifications
